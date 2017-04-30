@@ -1,0 +1,36 @@
+body{
+    margin:0;
+}
+
+.container-fluid{
+    background-color: #99d6ff;
+    height: 100%;
+}
+
+.page-header{
+    text-align: center;
+    border-bottom: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+table, th, td {
+     border-style : hidden!important;
+     text-align: center;
+}
+
+.image{
+    height: 80px;
+    width: 80px;
+}
+
+.sun{
+    content: url("http://www.clipartbest.com/cliparts/Kcn/Xja/KcnXjab6i.png");
+}
+
+.cloudy{
+    content: url("http://www.free-icons-download.net/images/cloudy-wear-icon-9916.png");
+}
+
+.rain{
+    content: url("https://cdn.pixabay.com/photo/2012/04/18/13/22/cloud-37011_960_720.png");
+}
